@@ -25,7 +25,7 @@
       "historialDeViajes": [
         {
           "idCliente": "CLI001",
-          "fechaHoraInicio": "2024-10-01T09:15:00Z",
+          "fechaHoraInicio": "2025-10-01T09:15:00Z",
           "origen": {
             "latitud": 40.4168,
             "longitud": -3.7038
@@ -41,7 +41,7 @@
         },
         {
           "idCliente": "CLI002",
-          "fechaHoraInicio": "2024-10-02T14:30:00Z",
+          "fechaHoraInicio": "2025-10-02T14:30:00Z",
           "origen": {
             "latitud": 40.4200,
             "longitud": -3.7100
@@ -121,7 +121,7 @@
       "historialDeViajes": [
         {
           "idCliente": "CLI004",
-          "fechaHoraInicio": "2024-10-03T16:45:00Z",
+          "fechaHoraInicio": "2025-10-03T16:45:00Z",
           "origen": {
             "latitud": 40.4100,
             "longitud": -3.7200
