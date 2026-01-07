@@ -9,7 +9,7 @@
       "totalGanado": 2450.50,
       "numeroDeViajes": 45,
       "fechaDeAltaEnFlota": "2024-01-15T10:30:00Z",
-      "fechaUltimoMantenimiento": "2024-09-20T14:00:00Z",
+      "fechaUltimoMantenimiento": "2025-09-20T14:00:00Z",
       "mejoras": [
         "Cargador USB-C",
         "Soporte para tablet",
@@ -65,7 +65,7 @@
       "totalGanado": 1820.75,
       "numeroDeViajes": 32,
       "fechaDeAltaEnFlota": "2024-03-10T12:00:00Z",
-      "fechaUltimoMantenimiento": "2024-10-01T10:00:00Z",
+      "fechaUltimoMantenimiento": "2025-10-01T10:00:00Z",
       "mejoras": [
         "Asientos de cuero",
         "WiFi Premium",
@@ -81,7 +81,7 @@
       "historialDeViajes": [
         {
           "idCliente": "CLI003",
-          "fechaHoraInicio": "2024-10-03T11:00:00Z",
+          "fechaHoraInicio": "2025-10-03T11:00:00Z",
           "origen": {
             "latitud": 40.4250,
             "longitud": -3.6950
@@ -105,7 +105,7 @@
       "totalGanado": 3125.00,
       "numeroDeViajes": 58,
       "fechaDeAltaEnFlota": "2023-11-20T09:00:00Z",
-      "fechaUltimoMantenimiento": "2024-08-15T16:30:00Z",
+      "fechaUltimoMantenimiento": "2025-08-15T16:30:00Z",
       "mejoras": [
         "Pantalla OLED trasera",
         "Masaje en asientos",
