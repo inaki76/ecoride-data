@@ -15,8 +15,8 @@
         "Soporte para tablet",
         "Sonido Premium"
       ],
-      "enlaceFichaTecnica": "https://www.tesla.com/es_es/model3",
-      "videoPromocionalDelModelo": "https://www.youtube.com/watch?v=example1",
+      "enlaceFichaTecnica": "https://en.wikipedia.org/wiki/Tesla_Model_3",
+      "videoPromocionalDelModelo": "https://www.youtube.com/watch?v=KVyKRMhHlSU",
       "ubicacionActual": {
         "latitud": 40.4168,
         "longitud": -3.7038
